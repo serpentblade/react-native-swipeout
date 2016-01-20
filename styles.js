@@ -31,6 +31,7 @@ var styles = StyleSheet.create({
   },
   swipeoutContent: {
     flex: 1,
+    backgroundColor: '#00000000',
   },
   colorDelete: {
     backgroundColor: '#fb3d38',
